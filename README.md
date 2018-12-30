@@ -1,3 +1,3 @@
-# Single Responsibility Principle
-##  https://code-maze.com/single-responsibility-principle/
+# Open Closed Principle
+##  https://code-maze.com/open-closed-principle/
 
