@@ -1,3 +1,3 @@
-# Open Closed Principle
-##  https://code-maze.com/open-closed-principle/
+# Liskov Substitution Principle
+##  https://code-maze.com/liskov-substitution-principle/
 
