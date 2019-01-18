@@ -1,3 +1,3 @@
-# Liskov Substitution Principle
-##  https://code-maze.com/liskov-substitution-principle/
+# Interface Segregation Principle
+##  https://code-maze.com/interface-segregation-principle/
 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D7641E7-44D8-42ED-9443-99A655FA7195}</ProjectGuid>
+    <ProjectGuid>{F0170158-7E37-4889-BA4D-7B6E2FBCD337}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LSP</RootNamespace>
-    <AssemblyName>LSP</AssemblyName>
+    <RootNamespace>ISP</RootNamespace>
+    <AssemblyName>ISP</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -42,10 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EvenNumbersSumCalculator.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="IAirplane.cs" />
+    <Compile Include="ICar.cs" />
+    <Compile Include="IMultiFunctionalVehicle.cs" />
+    <Compile Include="IVehicle.cs" />
+    <Compile Include="MultiFunctionalCar.cs" />
+    <Compile Include="Airplane.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SumCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
