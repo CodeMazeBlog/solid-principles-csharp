@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LSP
 {
-    public class EvenNumbersSumCalculator: SumCalculator
+    public class EvenNumbersSumCalculator: Calculator
     {
         public EvenNumbersSumCalculator(int[] numbers)
             :base(numbers)
