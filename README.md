@@ -1,3 +1,3 @@
 # Liskov Substitution Principle
-##  https://code-maze.com/liskov-substitution-principle/
+##  https://code-maze.com/dependency-inversion-principle/
 
